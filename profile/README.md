@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../assets/kashlift-icon.jpeg" width="80">
+<img src="https://raw.githubusercontent.com/Kashlift-LLC/.github/main/assets/kashlift-icon.jpeg" width="80">
     
 <h2>Kashlift</h2>
 </div>
